@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iengaezoj.voidlinux-ppc.org/sitemap.xml
